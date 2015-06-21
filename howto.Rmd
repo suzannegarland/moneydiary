@@ -1,0 +1,12 @@
+---
+title: "How to Use Money Diary"
+author: "Suzanne Garland"
+date: "June 20, 2015"
+output: html_document
+---
+
+Did you ever look at your credit card total and not know where the money went? My mission behind this app is to make me conscious of my spending.  The pie chart is the key. It will give me the insight into my daily spending habits. In a future version, there will be a section for notes where I can write down my insights on purchasing behavior. For example, do I tend to spend more money when I use a credit card verses paying in cash? And there will always be those necessary days where I will spend all of my pie on $3000 in property tax bills, etc. But those days will be few.
+
+First, I assign my purchases to a spending catagory: food, taxes, gifts, merchandise, gasoline or services. I could do this two ways; I could save my receipts for that day and enter them into the app, rounding up to the nearest $1. Or, I could keep a running total in my head and enter them in the app at the end of the day. After sliding the spending bars my pie chart will have taken shape. It will show what I spent on the most or least. Then, a notes section will answer questions like whether or not I used cash, a credit card or debt card. The pie chart is what will give me that moment of awareness into not only how much I'm spending in proportion to everything else but if it is even possible to go a day or a week without spending anything.
+
+When finished, it is possible to save the pie chart in order to compare it to other days. Generally, right-click the image and select Save As or Save Image (depending on the browser) to save the pie chart.
